@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Ram Sharan Gajurel
 
-<!--
-**ramsharangajurel-31/ramsharangajurel-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer (MERN)  
+💻 React | Node.js | Express | MongoDB | TypeScript | Next.js  
+🌱 Passionate about building scalable and user-friendly web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Tools: Git, GitHub, Postman, VS Code  
+
+---
+
+## 🔥 Featured Projects  
+
+- 🛒 MERN Online Bookstore – Full stack ecommerce app with cart, authentication & admin panel  
+- 🔐 Authentication System – Secure login & signup using JWT  
+- 📦 REST API – Node + Express + MongoDB  
+- 🎮 PHP Game Project  
+
+---
+
+## 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ramsharangajurel-31&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsharangajurel-31&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contact  
+
+- Email: your-email@gmail.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
